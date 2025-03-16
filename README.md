@@ -19,3 +19,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ### Introduction
 
 LeetCode is a platform for preparing technical coding interviews and improving your coding skills. This repository is my collection of solutions to LeetCode problems, Created using [LeetHub](https://github.com/QasimWani/LeetHub), which I have solved to practice my problem-solving skills and prepare for technical interviews.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ebi27/Leetcode-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ebi27/Leetcode-Solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
