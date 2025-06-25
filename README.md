@@ -27,6 +27,7 @@ LeetCode is a platform for preparing technical coding interviews and improving y
 | ------- |
 | [0001-two-sum](https://github.com/Ebi27/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ebi27/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2058-concatenation-of-array](https://github.com/Ebi27/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,8 @@ LeetCode is a platform for preparing technical coding interviews and improving y
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ebi27/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Ebi27/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
