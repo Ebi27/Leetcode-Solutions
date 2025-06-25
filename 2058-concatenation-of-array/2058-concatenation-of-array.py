@@ -4,9 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        ans = nums[:] * 2 # Create a copy of nums and replicate it twice using the * operator. The time complexity is O(2n)
-        return ans
+        #ans = nums * 2 
+        return nums * 2 
 
         """
-        If we want to save on space, we can just return the operation directly (return nums * 2 )
+        we can simply just return nums * 2 without creating the ans variable. Shocker. The memory is better than using the nums[:] which creates a shallow copy of the original list and assigns it to ans before repeating it again. 
         """
